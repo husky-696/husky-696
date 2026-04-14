@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**husky-696/husky-696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HAJ
 
-Here are some ideas to get you started:
+building simple • useful • beautiful things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://portfolio.hajin.tech">portfolio.hajin.tech</a>
+
+</div>
+
+---
+
+## /about
+
+Computer Engineering student  
+Focused on JavaScript  
+Learning by building real projects  
+
+---
+
+## /stack
+
+JavaScript  
+HTML  
+CSS  
+
+---
+
+## /projects
+
+minimal-notes-app  
+smart-planner  
+personal-blog (wip)  
+
+---
+
+## /now
+
+learning deeper JavaScript  
+exploring backend  
+improving UI/UX sense  
+
+---
+
+## /connect
+
+github.com/your-username  
+
+---
+
+<div align="center">
+
+less noise. more signal.
+
+</div>
