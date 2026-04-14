@@ -1,16 +1,16 @@
 <div align="center">
 
-# HAJ
+# HAJ 👋
 
-building simple • useful • beautiful things
+### building simple • useful • beautiful things
 
-<a href="https://portfolio.hajin.tech">portfolio.hajin.tech</a>
+🔗 <a href="https://portfolio.hajin.tech">portfolio.hajin.tech</a>
 
 </div>
 
 ---
 
-## /about
+## 🧠 /about
 
 Computer Engineering student  
 Focused on JavaScript  
@@ -18,15 +18,13 @@ Learning by building real projects
 
 ---
 
-## /stack
+## ⚡ /stack
 
-JavaScript  
-HTML  
-CSS  
+JavaScript • HTML • CSS  
 
 ---
 
-## /projects
+## 🚀 /projects
 
 minimal-notes-app  
 smart-planner  
@@ -34,7 +32,7 @@ personal-blog (wip)
 
 ---
 
-## /now
+## 🌱 /now
 
 learning deeper JavaScript  
 exploring backend  
@@ -42,7 +40,7 @@ improving UI/UX sense
 
 ---
 
-## /connect
+## 📫 /connect
 
 github.com/your-username  
 
@@ -50,6 +48,6 @@ github.com/your-username
 
 <div align="center">
 
-less noise. more signal.
+✨ less noise. more signal.
 
 </div>
