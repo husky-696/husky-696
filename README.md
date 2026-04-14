@@ -35,25 +35,24 @@
 
 ## `// SELECTED WORK`
 
-| Project | Focus | Stack |
+| Project | Focus | Live Link |
 | :--- | :--- | :--- |
-| **✦ Minimal Notes** | `DISTRACTION-FREE THINKING` | React / CSS |
-| **✦ Smart Planner** | `AI-ASSISTED FLOW` | JS / Gemini API |
-| **✦ Wage Tracker** | `STRUCTURAL FINANCE` | Next.js / Tailwind |
+| **✦ Terminal** | `CMD INTERFACE PORTFOLIO` | [terminal.hajin.tech](https://terminal.hajin.tech) |
+| **✦ Flow** | `AESTHETIC PRODUCTIVITY` | [flow.hajin.tech](https://flow.hajin.tech) |
+| **✦ Vibe Camp** | `COMMUNITY & EXPERIENCE` | [vibe-camp.hajin.tech](https://vibe-camp.hajin.tech) |
+| **✦ Pallet** | `DESIGN & COLOR UTILITY` | [pallet.hajin.tech](https://pallet.hajin.tech) |
 
 ---
 
 ## `// ACTIVITY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husky-696&theme=dark&hide_border=true&title_color=fff&text_color=ccc&icon_color=fff" width="48.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husky-696&theme=dark&hide_border=true&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff" width="48.5%" />
-</div>
+ 
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husky-696&theme=dark&hide_border=true&background=00000000" width="48%" />
 
-<br/>
+  <br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husky-696&layout=compact&theme=dark&hide_border=true&title_color=fff&text_color=ccc" width="70%" />
 </div>
 
 ---
