@@ -2,15 +2,15 @@
 
 # HAJ 👋
 
-### building simple • useful • beautiful things
+building simple • useful • beautiful things  
 
-🔗 <a href="https://portfolio.hajin.tech">portfolio.hajin.tech</a>
+🔗 https://portfolio.hajin.tech
 
 </div>
 
 ---
 
-## 🧠 /about
+### About
 
 Computer Engineering student  
 Focused on JavaScript  
@@ -18,13 +18,13 @@ Learning by building real projects
 
 ---
 
-## ⚡ /stack
+### Tech
 
 JavaScript • HTML • CSS  
 
 ---
 
-## 🚀 /projects
+### Projects
 
 minimal-notes-app  
 smart-planner  
@@ -32,7 +32,7 @@ personal-blog (wip)
 
 ---
 
-## 🌱 /now
+### Currently
 
 learning deeper JavaScript  
 exploring backend  
@@ -40,7 +40,15 @@ improving UI/UX sense
 
 ---
 
-## 📫 /connect
+### GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=false&hide_border=true&title_color=888888&text_color=888888&bg_color=00000000" height="120"/>
+</p>
+
+---
+
+### Contact
 
 github.com/your-username  
 
@@ -48,6 +56,6 @@ github.com/your-username
 
 <div align="center">
 
-✨ less noise. more signal.
+less noise. more signal.
 
 </div>
